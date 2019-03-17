@@ -1,4 +1,5 @@
-My first PHP school assignment.
-It covers all given requirements (POST/GET method, loops, conditional statements) and on top of that an additional session has been implemented to enable user/shopping cart information to be persistent across all the pages. 
+This is my first PHP school assignment.
+- Requirements: Fields to fill in personal information as well as product lists (a shopping cart) on a landing page; a summary of the checked-out shopping cart on the next page.
+- Focused points: Sessions, The POST/ GET method, loops, conditional statements.
 
 http://kaoriyoshimura.se/shopping_cart/
